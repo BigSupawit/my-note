@@ -1,0 +1,10 @@
+site_name: สรุปบทเรียนของฉัน
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: indigo
+
+nav:
+  - หน้าแรก: index.md
+  - บทที่ 1: chapter1.md
